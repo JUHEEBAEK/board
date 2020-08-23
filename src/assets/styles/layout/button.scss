@@ -1,0 +1,13 @@
+.button {
+  &:hover {
+    background: rgba(0,0,0, 0.25);
+    border: inherit;
+  }
+  &--round {
+    border-radius: 50%;
+  }
+  &--square {
+    width: 54px;
+    height: 54px;
+  }
+}

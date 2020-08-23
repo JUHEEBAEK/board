@@ -1,0 +1,60 @@
+{
+  "list": [
+    {
+      "path": "circle-blue",
+      "alt": "circle-blue"
+    },
+    {
+      "path": "circle-green",
+      "alt": "circle-green"
+    },
+    {
+      "path": "circle-indigo",
+      "alt": "circle-indigo"
+    },
+    {
+      "path": "circle-orange",
+      "alt": "circle-orange"
+    },
+    {
+      "path": "circle-red",
+      "alt": "circle-red"
+    },
+    {
+      "path": "circle-yellow",
+      "alt": "circle-yellow"
+    },
+    {
+      "path": "cone",
+      "alt": "cone"
+    },
+    {
+      "path": "pawprint",
+      "alt": "etc-pawprint"
+    },
+    {
+      "path": "flag-fresh",
+      "alt": "flag-fresh"
+    },
+    {
+      "path": "flag-image",
+      "alt": "flag-image"
+    },
+    {
+      "path": "football",
+      "alt": "ball"
+    },
+    {
+      "path": "net",
+      "alt": "goal-net"
+    },
+    {
+      "path": "sign-red-x",
+      "alt": "sign-red-x"
+    },
+    {
+      "path": "sign-x",
+      "alt": "sign-x"
+    }
+  ]
+}

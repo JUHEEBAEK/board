@@ -4,7 +4,8 @@ import router from "./router";
 import store from "./store";
 
 Vue.config.productionTip = false;
-
+Vue.prototype.$imgBaseUrl =
+  "https://juhee100bucket.s3.ap-northeast-2.amazonaws.com/marks/";
 new Vue({
   router,
   store,
